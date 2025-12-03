@@ -5,9 +5,8 @@ This is the repository of paper "Predicting Homologous Recombination Deficiency 
 
 
 
-
 ##
-We will be updating the instructions shortly.
+Code and data will be uploaded upon publication.
 
 ## Citation
 
